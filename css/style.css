@@ -80,6 +80,7 @@ header a:hover{
 #showcase p {
     font-size: 20px;
 }
+ /*Newsletter*/
 
 #newsletter{
     padding: 15px;
@@ -100,4 +101,26 @@ background: darkgoldenrod;
     padding: 4px;
     height: 25px;
     width: 250px;
+}
+/*Boxes*/
+
+#boxes{
+    margin-top: 20px;
+}
+#boxes .box{
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+#boxes .box img{
+    width: 90px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: whitesmoke;
+    background-color: darkgoldenrod;
+    text-align: center;
 }
