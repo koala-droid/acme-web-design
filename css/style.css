@@ -23,6 +23,14 @@ ul {
     padding-right: 20px;
     color: darkkhaki;
 }
+
+.dark{
+    padding: 15px;
+    background: #35424a;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 /*Header*/
 header {
     background: #35424a;
@@ -117,6 +125,20 @@ background: darkgoldenrod;
     width: 90px;
 }
 
+ /*Sidebar*/
+
+ aside#sidebar{
+     float: right;
+     width: 30%;
+     margin-top: 10px;
+ }
+
+ /*Article*/
+
+ article#main-col {
+     float: left;
+     width: 65%;
+ }
 footer{
     padding: 20px;
     margin-top: 20px;
