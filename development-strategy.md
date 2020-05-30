@@ -23,8 +23,9 @@ __A User can see my initial repository and live demo__
 I did it all! 🥚
 
 ## 1. User Story: it is all about branching
+As a user of this story I would see a -b called start, where the structure of HTML meta-tags is set.
 
-So I a created a bunch of them, mirroring the workflow.
+So I a created a bunch of them, mirroring the workflow of Git.
 
 ### Repo
 
@@ -39,7 +40,8 @@ I added head with all needful meta-tags.
 Nothing yet.
 
 
-## 2. User Story 2: it is all about branching
+## 2. User Story 2: -b beginning
+As a user of this story I would see a whole added structure of HTML file.
 
 ### Repo
 
@@ -53,7 +55,8 @@ Added HTML structure to move on
 
 Nothing yet.
 
-## 3. User Story 3: it is all about branching
+## 3. User Story 3: -b styling
+As a user I will see a styled header and navigation menu.
 
 ### Repo
 
@@ -67,7 +70,8 @@ Nothing. All was impecable.
 
 I started to style header and nav.
 
-## 4. User Story 4: it is all about branching
+## 4. User Story 4: still styling.
+As a user of this story I will see a whole styled landing page.
 
 ### Repo
 
@@ -82,7 +86,8 @@ Nothing. All was impecable.
 I started to style header and nav. Then I styled a bit more, and a bit more, and a bit more.
 And I became, as a Vinnie-Poh who over-ate a honey: 🍳. All colors became funky. No escape.
 
-## 5. User Story 5: it is all about branching
+## 5. User Story 5: added pages
+On the -b pages, you could see added pages as about and services.
 
 ### Repo
 
@@ -96,7 +101,8 @@ Added HTML pages: About and Services.
 
 Social distancing with CSS on this branch.
 
-## 6. User Story 6: it is all about branching
+## 6. User Story 6: pages styled.
+As a user of this story you will enjoy the pages styled.
 
 ### Repo
 
@@ -110,7 +116,8 @@ Sometimes I would add classes or id.
 
 I styled the pages, thanks to CSS!
 
-## 7. User Story 7: it is all about branching
+## 7. User Story 7: responsiveness!
+As a user of this story I could use website on any device.
 
 ### Repo
 
